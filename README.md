@@ -2,9 +2,6 @@
 
 This repository is used to test GitHub webhook events with the webhook receiver application.
 
-## Purpose
-
-This is the **action-repo** mentioned in the developer assessment. It's configured to send webhook events (Push, Pull Request, Merge) to the webhook receiver application.
 
 ## Webhook Configuration
 
@@ -68,4 +65,4 @@ This repository is part of the GitHub Webhook Receiver assessment task:
 
 ---
 
-**Created for**: Developer Assessment - GitHub Webhook Receiver Task
+ 
